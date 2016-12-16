@@ -1,0 +1,18 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errn, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errp, unit: 1 / (cm2 s TeV), datatype: float32}
+# meta: !!omap
+# - {EXTNAME: HESS}
+# - {PAPER: 'Abramowski2011,A&A,531,81'}
+# - {SOURCE_NAME: TeVJ1729-345}
+e_ref dnde dnde_errn dnde_errp
+0.346798 2.1982e-12 6.05232e-13 1.48175e-12
+0.797934 5.68401e-13 1.82193e-13 1.6703e-13
+2.08675 7.7183e-14 2.12509e-14 2.93249e-14
+5.46766 5.16055e-15 3.43403e-15 4.66634e-15
+13.948 8.50119e-16 6.80225e-16 1.11376e-15
+35.7179 7.84359e-17 6.84495e-17 1.8824e-16

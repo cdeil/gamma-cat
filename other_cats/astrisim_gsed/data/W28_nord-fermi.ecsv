@@ -1,0 +1,17 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errn, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errp, unit: 1 / (cm2 s TeV), datatype: float32}
+# meta: !!omap
+# - {EXTNAME: nord-fermi}
+# - {SOURCE_NAME: W28}
+e_ref dnde dnde_errn dnde_errp
+0.000316225 0.00114701 0.000148352 0.000147778
+0.000675587 0.000204161 1.03331e-05 1.46392e-05
+0.00146953 3.21483e-05 2.15097e-06 1.71383e-06
+0.00320804 4.30077e-06 3.56632e-07 4.70774e-07
+0.00682908 4.20647e-07 7.29419e-08 6.24877e-08
+0.0147481 6.27014e-08 1.59862e-08 1.31535e-08

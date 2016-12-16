@@ -1,0 +1,19 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errn, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errp, unit: 1 / (cm2 s TeV), datatype: float32}
+# meta: !!omap
+# - {EXTNAME: fermi}
+# - {SOURCE_NAME: w1457}
+e_ref dnde dnde_errn dnde_errp
+0.000284096 0.000456805 6.81576e-05 6.58446e-05
+0.000557872 0.00013194 1.34743e-05 1.50069e-05
+0.00114137 3.70482e-05 3.78354e-06 3.11745e-06
+0.00227214 8.85847e-06 1.11601e-06 2.41806e-07
+0.0045232 1.70757e-06 1.74383e-07 1.43684e-07
+0.00938161 2.31631e-07 2.36549e-08 3.33877e-08
+0.0183386 4.15793e-08 9.81653e-09 9.99629e-09
+0.037179 8.15541e-09 2.85497e-09 3.41884e-09

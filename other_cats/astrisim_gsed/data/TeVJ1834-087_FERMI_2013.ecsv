@@ -1,0 +1,20 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errn, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errp, unit: 1 / (cm2 s TeV), datatype: float32}
+# meta: !!omap
+# - {EXTNAME: FERMI_2013}
+# - {PAPER: 'Castro et al., 2013, ApJ 774, 36'}
+# - {SOURCE_NAME: TeVJ1834-087}
+e_ref dnde dnde_errn dnde_errp
+0.00134899 7.30553e-06 1.43095e-06 1.53528e-06
+0.00234682 1.60397e-06 3.82583e-07 4.45795e-07
+0.00415689 8.34901e-07 1.44987e-07 1.48297e-07
+0.00739627 2.71008e-07 4.70625e-08 5.69532e-08
+0.013339 4.3325e-08 1.531e-08 1.3571e-08
+0.0236272 2.31746e-08 6.46366e-09 5.64493e-09
+0.042229 4.32278e-09 2.36137e-09 1.83762e-09
+0.0747998 0.0 0.0 2.87547e-09

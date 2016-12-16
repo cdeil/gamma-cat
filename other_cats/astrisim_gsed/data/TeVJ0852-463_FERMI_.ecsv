@@ -1,0 +1,15 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errn, unit: 1 / (cm2 s TeV), datatype: float32}
+# - {name: dnde_errp, unit: 1 / (cm2 s TeV), datatype: float32}
+# meta: !!omap
+# - {EXTNAME: FERMI_}
+# - {SOURCE_NAME: TeVJ0852-463}
+e_ref dnde dnde_errn dnde_errp
+0.00203849 2.31894e-06 1.15775e-06 9.94873e-07
+0.00843191 1.44919e-07 3.64872e-08 4.03122e-08
+0.0350384 1.43366e-08 3.60962e-09 3.18827e-09
+0.145601 8.48971e-10 2.80807e-10 2.85681e-10
